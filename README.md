@@ -9,5 +9,7 @@ Hello there,👋
 ⚡ Fun fact:
 
 -I enjoy playing ludo.🎲
+
 -I love pixar animation.✨
+
 -I like the cold weather.🌧️
