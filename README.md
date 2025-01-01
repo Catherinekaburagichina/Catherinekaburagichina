@@ -1,15 +1,10 @@
 Hello there,👋
 
--I am Catherine,a software enthusiast who enjoys challenging herself with new technologies⚡and innovative projects.🔨
+-I am Catherine Gichina,a software enthusiast with a love for coding ⚡and problem solving.🔨
 
--My goal is to continously expand my knowledge 📒 and bring out solution-oriented products to users.🧑🏻‍🤝‍🧑🏻
-
--Outside of work,I am interested in expanding my technical knowledge in the techfield 🌱 and watching movies.🎞️
+-My goal is to continously expand my knowledge 📒 and apply it to make a meaningful impact in everything i do.🧑🏻‍🤝‍🧑🏻
 
 ⚡ Fun fact:
 
 -I enjoy playing ludo.🎲
-
--I love pixar animation.✨
-
--I like the cold weather.🌧️
+-When i am not coding i am traveling 🌱 or watching movies.🎞️
