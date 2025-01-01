@@ -7,4 +7,5 @@ Hello there,👋
 ⚡ Fun fact:
 
 -I enjoy playing ludo.🎲
+
 -When i am not coding i am traveling 🌱 or watching movies.🎞️
